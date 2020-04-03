@@ -1,0 +1,110 @@
+[
+  {
+    "Position": "1",
+    "Team": "Celtic",
+    "Played": "30",
+    "Points": "80",
+    "Wins": "26",
+    "Draws": "2",
+    "Losses": "2"
+  },
+  {
+    "Position": "2",
+    "Team": "Rangers",
+    "Played": "29",
+    "Points": "67",
+    "Wins": "21",
+    "Draws": "4",
+    "Losses": "4"
+  },
+  {
+    "Position": "3",
+    "Team": "Motherwell",
+    "Played": "30",
+    "Points": "46",
+    "Wins": "14",
+    "Draws": "4",
+    "Losses": "12"
+  },
+  {
+    "Position": "4",
+    "Team": "Aberdeen",
+    "Played": "30",
+    "Points": "45",
+    "Wins": "12",
+    "Draws": "9",
+    "Losses": "9"
+  },
+  {
+    "Position": "5",
+    "Team": "Livingston",
+    "Played": "30",
+    "Points": "89",
+    "Wins": "10",
+    "Draws": "9",
+    "Losses": "11"
+  },
+  {
+    "Position": "6",
+    "Team": "Hibernian",
+    "Played": "30",
+    "Points": "37",
+    "Wins": "9",
+    "Draws": "10",
+    "Losses": "11"
+  },
+  {
+    "Position": "7",
+    "Team": "St.Johnstone",
+    "Played": "29",
+    "Points": "36",
+    "Wins": "8",
+    "Draws": "12",
+    "Losses": "29"
+  },
+  {
+    "Position": "8",
+    "Team": "Kilmarnock",
+    "Played": "30",
+    "Points": "33",
+    "Wins": "9",
+    "Draws": "6",
+    "Losses": "15"
+  },
+  {
+    "Position": "9",
+    "Team": "St.Mirren",
+    "Played": "30",
+    "Points": "29",
+    "Wins": "7",
+    "Draws": "8",
+    "Losses": "15"
+  },
+  {
+    "Position": "10",
+    "Team": "Ross County",
+    "Played": "30",
+    "Points": "27",
+    "Wins": "7",
+    "Draws": "8",
+    "Losses": "15"
+  },
+  {
+    "Position": "11",
+    "Team": "Hamilton",
+    "Played": "30",
+    "Points": "27",
+    "Wins": "6",
+    "Draws": "9",
+    "Losses": "15"
+  },
+  {
+    "Position": "12",
+    "Team": "Hearts",
+    "Played": "30",
+    "Points": "23",
+    "Wins": "4",
+    "Draws": "11",
+    "Losses": "15"
+  }
+]
