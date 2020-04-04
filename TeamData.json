@@ -1,4 +1,5 @@
-[
+{
+ "teams": [
   {
     "Position": "1",
     "Team": "Celtic",
@@ -107,4 +108,5 @@
     "Draws": "11",
     "Losses": "15"
   }
-]
+ ]
+}
