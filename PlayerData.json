@@ -618,8 +618,8 @@
     {
     "Name": "Branescu",
     "Club": "Kilmarnock",
-	"Position": "30",
-    "Appearances": "Goalkeeper",
+	"Position": "Goalkeeper",
+    "Appearances": "30",
     "Goals": "0",
     "Assists": "0"
   },
@@ -971,7 +971,7 @@
     "Name": "Smith",
     "Club": "Hearts",
 	"Position": "Defender",
-    "Appearances": "Halkett",
+    "Appearances": "25",
     "Goals": "0",
     "Assists": "0"
   },
