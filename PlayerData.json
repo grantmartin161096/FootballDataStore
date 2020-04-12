@@ -20,7 +20,7 @@
 	"Name": "Ajer",
 	"Club": "Celtic",
 	"Position": "Defender",
-	"Appearances": "30,
+	"Appearances": "30",
 	"Goals": "3",
 	"Assists": "0"
   },
@@ -67,8 +67,8 @@
     {
 	"Name": "McGregor",
 	"Club": "Celtic",
-	"Position": "Midfielder"
-    "Appearances": "30",
+	"Position": "Midfielder",
+  "Appearances":"30",
 	"Goals": "5",
 	"Assists": "10"
   },
@@ -210,7 +210,7 @@
     {
 	"Name": "Campbell",
 	"Club": "Motherwell",
-	"Position": "Midfielder"
+	"Position": "Midfielder",
 	"Appearances": "20",
 	"Goals": "5",
 	"Assists": "2"
