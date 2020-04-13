@@ -2,7 +2,7 @@
  "teams": [
   {
     "Position": "1",
-    "Team": "Celtic",
+    "Team": "Glasgow Green",
     "Played": "30",
     "Points": "80",
     "Wins": "26",
@@ -11,7 +11,7 @@
   },
   {
     "Position": "2",
-    "Team": "Rangers",
+    "Team": "Glasgow Blue",
     "Played": "29",
     "Points": "67",
     "Wins": "21",
@@ -47,7 +47,7 @@
   },
   {
     "Position": "6",
-    "Team": "Hibernian",
+    "Team": "Leith",
     "Played": "30",
     "Points": "37",
     "Wins": "9",
@@ -56,7 +56,7 @@
   },
   {
     "Position": "7",
-    "Team": "St.Johnstone",
+    "Team": "Perth",
     "Played": "29",
     "Points": "36",
     "Wins": "8",
@@ -74,7 +74,7 @@
   },
   {
     "Position": "9",
-    "Team": "St.Mirren",
+    "Team": "Paisley",
     "Played": "30",
     "Points": "29",
     "Wins": "7",
@@ -83,7 +83,7 @@
   },
   {
     "Position": "10",
-    "Team": "Ross County",
+    "Team": "Highlands",
     "Played": "30",
     "Points": "27",
     "Wins": "7",
@@ -101,7 +101,7 @@
   },
   {
     "Position": "12",
-    "Team": "Hearts",
+    "Team": "Edinburgh",
     "Played": "30",
     "Points": "23",
     "Wins": "4",
